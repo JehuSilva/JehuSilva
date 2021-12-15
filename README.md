@@ -16,8 +16,6 @@ Skills: Superset / Airflow / Django / Hasura /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehuSilva)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mogaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mogaka_dev)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JehuSilva&show_icons=true&count_private=true&theme=tokyonight)
 
 ![GitHub metrics](https://metrics.lecoq.io/JehuSilva)  
