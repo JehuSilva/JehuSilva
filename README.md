@@ -1,4 +1,4 @@
-## Hi there 👋, meet Amos
+## Hi there 👋, I'm Jehu
 I am a Python developer who is really passionate of its technologies
 
 Skills: Superset / Airflow / Hasura / AWS / GCP / Docker / Git
