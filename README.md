@@ -1,13 +1,13 @@
 ## Hi there 👋, meet Amos
 I am a Python developer who is really passionate of its technologies
 
-Skills: Superset / Airflow / Django / Hasura /
+Skills: Superset / Airflow / Hasura / AWS / GCP / Docker / Git
 
-- 🔭 I’m currently working on Datyra 
-- 🌱 I’m currently learning Google Cloud Platform
+- 🔭 I’m currently working on [Datyra](https://datyra.com/)
+- 🌱 I’m currently learning Django
 - 📫 How to reach me: ijehu.silva@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: I love art. 
+- ⚡ Fun fact: I love dance. 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JehuSilva)](https://github.com/ryo-ma/github-profile-trophy)
