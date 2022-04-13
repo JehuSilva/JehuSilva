@@ -3,7 +3,7 @@ I am a Python developer who is really passionate of its technologies
 
 Skills: Superset / Airflow / Hasura / AWS / GCP / Docker / Git
 
-- 🔭 I’m currently working on [Datyra](https://datyra.com/)
+- 🔭 I’m currently working at [Datyra](https://datyra.com/)
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: ijehu.silva@gmail.com
 - 😄 Pronouns: he
