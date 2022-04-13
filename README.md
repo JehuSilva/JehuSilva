@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Jehu
-I am a Python developer who is really passionate of its technologies
+Creative, engaged and goal-oriented software engineer with 1+ year of industry experience developing comercial applications. I specialize in Python and have professional experience working with AWS and GCP, modeling, developing, and deploying data engineering pipelines.
+
+I am passionate about the work I do, but I am even more dedicated to cultivating a positive and efficient team environment.
 
 Skills: Superset / Airflow / Hasura / AWS / GCP / Docker / Git
 
