@@ -5,14 +5,11 @@ I am passionate about the work I do, but I am even more dedicated to cultivating
 
 Skills: Superset / Airflow / Hasura / AWS / GCP / Docker / Git
 
-- 🔭 I’m currently working at [Datyra](https://datyra.com/)
+- 🔭 I’m currently working at [Xal Digital](https://www.xaldigital.com/)
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: ijehu.silva@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: I love dance. 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JehuSilva)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehuSilva)](https://github.com/anuraghazra/github-readme-stats)
 
