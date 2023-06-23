@@ -6,17 +6,9 @@ I am passionate about the work I do, but I am even more dedicated to cultivating
 Skills: Superset / Airflow / Hasura / AWS / GCP / Docker / Git
 
 - 🔭 I’m currently working at [Xal Digital](https://www.xaldigital.com/)
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me: ijehu.silva@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: I love dance. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehuSilva)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JehuSilva&show_icons=true&count_private=true&theme=tokyonight)
-
-![GitHub metrics](https://metrics.lecoq.io/JehuSilva)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JehuSilva)  
-
-![Profile views](https://gpvc.arturio.dev/JehuSilva)  
